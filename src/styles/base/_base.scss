@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 72.5%;
+}
+body{
+    font-family:Quicksand;
+}
+.toast{
+    font-size: 2rem;
+    background-color: $color-green;
+    color: #fff;
+    
+}
